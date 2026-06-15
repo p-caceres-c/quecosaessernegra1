@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "2f5c7ac3-5809-4ac6-99ba-ca821254c674": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=ei-m4ahXkg4",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Nicomedes",
+  "av_file_order": [
+    "2f5c7ac3-5809-4ac6-99ba-ca821254c674"
+  ],
+  "created_at": "2026-06-15T19:55:07.251Z",
+  "created_by": "p-caceres-c",
+  "updated_at": "2026-06-15T19:55:07.251Z",
+  "updated_by": "p-caceres-c"
+}

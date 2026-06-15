@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-06-15T19:55:07.465Z",
+  "created_by": "p-caceres-c",
+  "title": "Nicomedes",
+  "slug": "nicomedes",
+  "updated_at": "2026-06-15T19:55:07.465Z",
+  "updated_by": "p-caceres-c",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "fc760f39-a2f6-414d-a6b6-64367ccf1cd1"
+  }
+}
