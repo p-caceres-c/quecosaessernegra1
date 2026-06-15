@@ -507,6 +507,23 @@
               "italic": true
             }
           ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The person reflects on the representations of Afro-Peruvians in the media."
+            }
+          ]
         }
       ],
       "tags": [
