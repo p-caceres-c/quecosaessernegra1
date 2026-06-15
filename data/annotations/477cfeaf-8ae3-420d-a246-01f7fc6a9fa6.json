@@ -1,5 +1,686 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 37,
+      "end_time": 70,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The song says, \" I will have to suffer in my life if I were born Black. My destiny is cruel. I carry the chains on my shoulders. The same chains from slavery.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music and sound",
+          "category": "Afro Peruvian Culture"
+        }
+      ],
+      "uuid": "56eafa46-9d3c-4c38-be1c-0b5a30bb77bf"
+    },
+    {
+      "start_time": 90,
+      "end_time": 102,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Black women dancing to the song "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Afro Peruvian Culture",
+          "tag": "Dance and performances"
+        }
+      ],
+      "uuid": "3f5582cb-34bb-474b-9587-4a63523dd3d5"
+    },
+    {
+      "start_time": 125,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Visual images by Pancho Fierro. Pancho Fierro was an important Afro-Peruvian painter who used art to represent the daily lives of Black communities during colonial times."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual representations",
+          "category": "Afro Peruvian Culture"
+        },
+        {
+          "tag": "Ancestral memory",
+          "category": "Knowledge Production"
+        }
+      ],
+      "uuid": "4d27ebae-3f03-4228-a4b3-c9f4a9a2514f"
+    },
+    {
+      "start_time": 150,
+      "end_time": 157,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Being Black in Peru means belonging to the history of injustices and suffering that started in 1532 when the first Black enslaved people came with the Spaniards. Black communities transformed the coast valleys and made other people rich.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Colonial history and slavery",
+          "category": "History"
+        }
+      ],
+      "uuid": "3a55f1ca-0509-4201-b73e-60ff0d713546"
+    },
+    {
+      "start_time": 157,
+      "end_time": 169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Black people fought for other people to be free. The abolition of slavery in 1855 did not change his dominated condition.\" The narrator's phrase expresses the social conditions of Afro-Peruvian communities and how oppression has continued from the 1960s to today. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Colonial history and slavery",
+          "category": "History"
+        },
+        {
+          "tag": "Post abolition and plantation system",
+          "category": "History"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Identity building"
+        }
+      ],
+      "uuid": "e0689aa8-59fe-4a82-8099-7af03a550a87"
+    },
+    {
+      "start_time": 305,
+      "end_time": 320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Their people now are little property landowners. They are facing the capitalist national market without organization to defend themselves\". This reflects the changes in the Agrarian Reformation that still created oppressive conditions for Black communities, even though the initial project was intended to break down barriers by granting workers property rights of the land. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "History",
+          "tag": "Post agrarian reformation"
+        },
+        {
+          "tag": "Labor and economy",
+          "category": "Material conditions"
+        }
+      ],
+      "uuid": "cd09f05a-8784-4ae1-8cb6-495596458b84"
+    },
+    {
+      "start_time": 340,
+      "end_time": 350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"A society of ' castas' only offers them the exploitation of their ancestral languages and the need for whitening\". Castas was the racial colonial system that put Blackness in the worst social condition. Even though colonial systems are over, society still reflects on the oppression of Blackness, offering whitening as the option for social mobility. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "History",
+          "tag": "Post agrarian reformation"
+        },
+        {
+          "tag": "Labor and economy",
+          "category": "Material conditions"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Identity building"
+        }
+      ],
+      "uuid": "07d05da0-4b24-47bc-afca-3658d64fd7a2"
+    },
+    {
+      "start_time": 370,
+      "end_time": 382,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"My name is Juliana Avalos Gallardo. I am from Guayabo, and I live with my grandma Chicha in El Guayabo. I am in the 4th grade of high school, and I dance with the crew Zarandango.\" Juliana presents herself in the Camera. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Testimony and oral history",
+          "category": "Knowledge Production"
+        }
+      ],
+      "uuid": "c6084092-7671-48dd-88b3-fa2fa46b5395"
+    },
+    {
+      "start_time": 417,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I am Cecilia Cartagena Buenano.\" Cecilia, also known as Chicha, is the main focus of the documentary, which reflects on the broader social conditions of Black women in the post-agrarian reformation. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Testimony and oral history",
+          "category": "Knowledge Production"
+        }
+      ],
+      "uuid": "d609f784-1f0e-4c0e-99c4-346359f9efba"
+    },
+    {
+      "start_time": 421,
+      "end_time": 479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song \" El Negro Antonio\". The song narrates the life of Black Antonio, who marries another Black woman and has children, the first generation of Black children born free. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music and sound",
+          "category": "Afro Peruvian Culture"
+        },
+        {
+          "tag": "Post abolition and plantation system",
+          "category": "History"
+        }
+      ],
+      "uuid": "3a0de2ca-ca88-4e59-933e-914b8ac3c12f"
+    },
+    {
+      "start_time": 481,
+      "end_time": 487,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"My dad was Antonio Cartagena De la Cruz, and my mom was Carmen Rosa Buenano Cotito.\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Testimony and oral history",
+          "category": "Knowledge Production"
+        }
+      ],
+      "uuid": "c3ac4877-38c9-4b34-b862-f52b5b899bfd"
+    },
+    {
+      "start_time": 517,
+      "end_time": 530,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"My mom did not work; she used to have a business. She used to sell animal giblets.\" Chicha recounts the story of her mom, who faced financial hardship and sold food to survive.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Post abolition and plantation system",
+          "category": "History"
+        },
+        {
+          "tag": "Labor and economy",
+          "category": "Material conditions"
+        }
+      ],
+      "uuid": "2b0acc70-3a59-45cb-b3d2-350aa42af34e"
+    },
+    {
+      "start_time": 547,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"My mom knew how to read, but she did not know how to write. My dad only knew how to write some numbers, and he could only count half of them. I really do not know how he learned those things.\" Chicha mentions the lack of education in the previous generation. This reflects the hardships Afro-Peruvians face in accessing education. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education and opportunities",
+          "category": "Material conditions"
+        },
+        {
+          "tag": "Ancestral memory",
+          "category": "Knowledge Production"
+        }
+      ],
+      "uuid": "eb44b55e-c2bf-4b64-9e45-6eb6bcdf0404"
+    },
+    {
+      "start_time": 555,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"She thought (the mom) that if we learned how to read and write, we would have more opportunities in our lives. Maybe we could have an opportunity better than the ones she had.\" Chicha reflects on educational opportunities as a means of social mobility. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education and opportunities",
+          "category": "Material conditions"
+        },
+        {
+          "tag": "Ancestral memory",
+          "category": "Knowledge Production"
+        }
+      ],
+      "uuid": "77232a0b-3d35-4d79-9120-0d06638cdbda"
+    },
+    {
+      "start_time": 607,
+      "end_time": 618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"My parents' lives have been really difficult, and we have been carrying that. You gotta see that we have suffered a lot.\" Chicha reflects on the inequalities that Afro-Peruvian families faced. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education and opportunities",
+          "category": "Material conditions"
+        },
+        {
+          "tag": "Ancestral memory",
+          "category": "Knowledge Production"
+        },
+        {
+          "tag": "Discrimination",
+          "category": "Identity building"
+        }
+      ],
+      "uuid": "5ac0b449-887e-415e-8f2c-441542ecf53d"
+    },
+    {
+      "start_time": 719,
+      "end_time": 734,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Agrarian Reformation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "History",
+          "tag": "Post agrarian reformation"
+        }
+      ],
+      "uuid": "605207c5-22db-4f8d-83d3-4627feb00a48"
+    },
+    {
+      "start_time": 748,
+      "end_time": 768,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"The cooperation did not work because the engineer that we hired always wanted to take a piece. And that is not how it works. And you cannot do anything about it. When you do not understand that stuff, when you are blind in the economies and numbers, they take you out.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "History",
+          "tag": "Post agrarian reformation"
+        }
+      ],
+      "uuid": "9d9e6c6b-bc52-43b0-aecc-e6b4cbb6015d"
+    },
+    {
+      "start_time": 769,
+      "end_time": 784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Things are better for us now with the individual plots, because you can see who works and who doesn't; back when we had the cooperative, the lazy ones lived off the hard workers. Now we are truly happy and content. We are right in the middle of the cotton season.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "History",
+          "tag": "Post agrarian reformation"
+        }
+      ],
+      "uuid": "f30a5104-60af-4276-9917-404945014a24"
+    },
+    {
+      "start_time": 784,
+      "end_time": 838,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Images of Agricultural Labor "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Labor and economy",
+          "category": "Material conditions"
+        }
+      ],
+      "uuid": "eff80332-b1f9-42e7-a34a-25ab4bb19d08"
+    },
+    {
+      "start_time": 847,
+      "end_time": 859,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It’s so sad the cooperative failed, because I’ve always—well, I’ve fought alone for my children; that’s simply how fate played out.\" Chicha reflects on the failures of the agrarian reformation and how she still faces oppression as a Black single mother with no economic opportunities. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "History",
+          "tag": "Post agrarian reformation"
+        }
+      ],
+      "uuid": "2171747d-a947-4bb6-bf2b-fde3f6375ad9"
+    },
+    {
+      "start_time": 860,
+      "end_time": 938,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song inspired by the poem \"Canto para dormir a un negrito\" del escritor cubano Emilio Ballagas."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music and sound",
+          "category": "Afro Peruvian Culture"
+        }
+      ],
+      "uuid": "606b1137-7676-495a-b7d0-4237cd121d86"
+    },
+    {
+      "start_time": 938,
+      "end_time": 980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I even had to take things from the bosses—sweet potatoes, lima beans, cassava, whatever was growing in the fields—I’d take it. I’d go out alone, though; I didn’t take them along because they didn’t know how to do the picking. I’d go by myself, like a madwoman. Necessity drove me to go out and gather what I could. Back then, who didn’t do that? Stealing from the boss wasn’t a sin because the labor came from our own bodies. We were taking from the very sweat of our own brows.\" Chicha explains her methods of survival against economic oppression. She manifests that she had to steal food in order to survive and bring food to her family. She explains that \"stealing\" or \"taking things from the bosses\" was a way of reclaiming the unrecognized work that comes out of Black Peruvians bodies. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education and opportunities",
+          "category": "Material conditions"
+        },
+        {
+          "tag": "Labor and economy",
+          "category": "Material conditions"
+        },
+        {
+          "tag": "Testimony and oral history",
+          "category": "Knowledge Production"
+        }
+      ],
+      "uuid": "170b07b2-2538-43ff-bcf5-e38f318f79ea"
+    },
+    {
+      "start_time": 980,
+      "end_time": 1026,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I am going to achieve what I set out to accomplish for my children, because I haven't yet been able to give them the education I intend to provide—provided I live long enough. I pray that God and the Most Holy Virgin help me.\" Chicha expresses her dreams and desires for her grandchildren to have more opportunities through education. She also says she hopes to live a long life, only if God allows it. This also demonstrates the close relationship between Catholic beliefs and Afro-Peruvian culture. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education and opportunities",
+          "category": "Material conditions"
+        },
+        {
+          "tag": "Testimony and oral history",
+          "category": "Knowledge Production"
+        },
+        {
+          "tag": "Community building",
+          "category": "Identity building"
+        },
+        {
+          "tag": "Other cultural practices",
+          "category": "Afro Peruvian Culture"
+        }
+      ],
+      "uuid": "42873382-b3d8-4460-8430-0f376c176abe"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 1078,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Afro-Peruvian children in school"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education and opportunities",
+          "category": "Material conditions"
+        }
+      ],
+      "uuid": "145ad518-af78-4258-925d-031b19b7fa02"
+    },
+    {
+      "start_time": 1078,
+      "end_time": 1108,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We are the board of the Parents' Association for School 22-658 in the El Guayabo settlement. Fela is the treasurer, Aleja is the secretary, and Ali is the vice president. I am the president. We saw a need for a school here in El Guayabo because the children had to travel far to El Carmen. That is why we took the necessary steps to make it happen. It took a long time, but everything worked out well in the end, and now we have the school here.\" Esther \"Mamaine\" Cartagena explains the need for a school in the Guayabo settlement, as a way for children to access education without having to travel farther. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education and opportunities",
+          "category": "Material conditions"
+        },
+        {
+          "tag": "Testimony and oral history",
+          "category": "Knowledge Production"
+        }
+      ],
+      "uuid": "dc69d5f0-9942-494c-9aec-3b04ba78e930"
+    },
+    {
+      "start_time": 1108,
+      "end_time": 1130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We also want to have a medical clinic in El Guayabo. And we want a mechanic workshop for the  young people who cannot attend university, so they can learn new abilities.\" Ali expresses the need for better opportunities in El Guayabo so people can access health care and education. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Education and opportunities",
+          "category": "Material conditions"
+        },
+        {
+          "tag": "Testimony and oral history",
+          "category": "Knowledge Production"
+        }
+      ],
+      "uuid": "95224537-bde3-4dcb-b094-ccd6ef21cdae"
+    },
+    {
+      "start_time": 1270,
+      "end_time": 1340,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The song \"La Pata Pela\" is played through the rhythm of the cajon while Black women have fun and dance. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Music and sound",
+          "category": "Afro Peruvian Culture"
+        },
+        {
+          "category": "Afro Peruvian Culture",
+          "tag": "Dance and performances"
+        },
+        {
+          "tag": "Community building",
+          "category": "Identity building"
+        }
+      ],
+      "uuid": "719a5084-fae8-4e4f-8023-529563b0f22e"
+    },
+    {
+      "start_time": 1341,
+      "end_time": 1423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Song \"Maitin\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Visual representations",
+          "category": "Afro Peruvian Culture"
+        },
+        {
+          "tag": "Music and sound",
+          "category": "Afro Peruvian Culture"
+        },
+        {
+          "category": "Afro Peruvian Culture",
+          "tag": "Dance and performances"
+        }
+      ],
+      "uuid": "6aaf1d12-d833-4875-8a59-2fe73d5bbd39"
+    }
+  ],
   "set": "Default",
   "event_id": "4842b723-0e92-47f2-b146-c77ae30f2f02",
   "source_id": "9d380cfc-a2d0-4dc0-89ff-8a5914cc5c61"
