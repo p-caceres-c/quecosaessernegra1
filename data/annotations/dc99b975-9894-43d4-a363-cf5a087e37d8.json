@@ -415,7 +415,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"The cooperation did not work because the engineer that we hired always wanted to take a piece. And that is not how it works. And you cannot do anything about it. When you do not understand that stuff, when you are blind in the economies and numbers, they take you out.\""
+              "text": "\"The cooperation did not work because the engineer that we hired always wanted to take a piece. And that is not how it works. And you cannot do anything about it. When you do not understand that stuff, when you are blind in the economies and numbers, they take you out.\"",
+              "italic": true
             }
           ]
         }
