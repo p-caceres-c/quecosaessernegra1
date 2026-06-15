@@ -224,7 +224,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"But how did it come about that you are now directing the National Folklore Ensemble, that is the organization dedicated to preserving and safeguarding the cultural richness of Peru's various ethnic groups, cultural practices that could be lost?\" Eugenio Barba asks to Victoria"
+              "text": "\"But how did it come about that you are now directing the National Folklore Ensemble, that is the organization dedicated to preserving and safeguarding the cultural richness of Peru's various ethnic groups, cultural practices that could be lost?\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eugenio Barba asks to Victoria"
             }
           ]
         }
