@@ -796,7 +796,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"We are the board of the Parents' Association for School 22-658 in the El Guayabo settlement. Fela is the treasurer, Aleja is the secretary, and Ali is the vice president. I am the president. We saw a need for a school here in El Guayabo because the children had to travel far to El Carmen. That is why we took the necessary steps to make it happen. It took a long time, but everything worked out well in the end, and now we have the school here.\" Esther \"Mamaine\" Cartagena explains the need for a school in the Guayabo settlement, as a way for children to access education without having to travel farther. "
+              "text": "\"We are the board of the Parents' Association for School 22-658 in the El Guayabo settlement. Fela is the treasurer, Aleja is the secretary, and Ali is the vice president. I am the president. We saw a need for a school here in El Guayabo because the children had to travel far to El Carmen. That is why we took the necessary steps to make it happen. It took a long time, but everything worked out well in the end, and now we have the school here.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esther \"Mamaine\" Cartagena explains the need for a school in the Guayabo settlement, as a way for children to access education without having to travel farther. "
             }
           ]
         }
