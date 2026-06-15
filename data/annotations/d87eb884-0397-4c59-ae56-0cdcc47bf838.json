@@ -338,7 +338,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Rhythmic combinations inherited from Africa, wisely nurtured and preserved, and one seeks this freedom; it lies within, and as one connects with it, one sheds all the cheap things, all the cheap aspects of the life one leads.\" Victoria Santa Curz highlights the role of rhythm as both a cosmology and a spiritual force. "
+              "text": "\"Rhythmic combinations inherited from Africa, wisely nurtured and preserved, and one seeks this freedom; it lies within, and as one connects with it, one sheds all the cheap things, all the cheap aspects of the life one leads.\"",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Victoria Santa Curz highlights the role of rhythm as both a cosmology and a spiritual force. "
             }
           ]
         }
