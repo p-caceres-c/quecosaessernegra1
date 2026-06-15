@@ -153,7 +153,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"You belong to a minority; here in Peru, there are only 800,000 Black people within an Indigenous population of 14 million,\" Eugenio Barba asks"
+              "text": "\"You belong to a minority; here in Peru, there are only 800,000 Black people within an Indigenous population of 14 million...\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eugenio Barba asks"
             }
           ]
         }
