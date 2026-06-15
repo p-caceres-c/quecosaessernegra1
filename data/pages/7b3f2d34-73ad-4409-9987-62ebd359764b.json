@@ -1,0 +1,128 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Afro-Peruvian women’s lives are deeply shaped by histories of labor and economic inequality. From the colonial period, Afro-Peruvians have been forced into agricultural labor, and conditions did not change when slavery was abolished in 1854. Afro-Peruvians were still exploited within plantation systems called "
+        },
+        {
+          "text": "haciendas",
+          "italic": true
+        },
+        {
+          "text": ", where landowners maintained control over land, resources, and labor, reproducing conditions of dependency and exploitation. These systems limited economic mobility and reinforced racial hierarchies, positioning Afro-Peruvian communities within precarious and undervalued forms\nof work.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This historical legacy continued to shape labor conditions well into the twentieth century, even after the 1969 "
+        },
+        {
+          "type": "link",
+          "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/agrarian-reformation/",
+          "children": [
+            {
+              "text": "Agrarian Reformation"
+            }
+          ]
+        },
+        {
+          "text": " sought to dismantle haciendas and redistribute land. Although the reform transformed rural structures, it did not fully eliminate inequality, and many Afro-Peruvian women remained concentrated in low-paid, informal, or domestic labor. As a result, labor for Afro-Peruvian women is not only an economic condition but also a site where race, gender, and class intersect, shaping their everyday lives and opportunities.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Color de mujer\" follows the story of Cecilia Cartagena Buenano, or “"
+        },
+        {
+          "text": "Tia Chicha",
+          "italic": true
+        },
+        {
+          "text": ",” who is also my great-auntie. The documentary focuses on her daily life as she observes changes in the Peruvian agricultural system. It illustrates how race, gender, and class intersect in the everyday lives of Afro-Peruvian women. The documentary highlights their roles in domestic work, caregiving, and other forms of labor that sustain families and communities but remain socially and economically marginalized. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "At the same time, the film reveals how Afro-Peruvian women navigate and resist these conditions. Through their narratives, they show the strategies they develop to survive, support their families, and create meaning within constrained circumstances. Labor, in this sense, is not only a site of exploitation but also a space where resilience and agency emerge."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "uuid": "4842b723-0e92-47f2-b146-c77ae30f2f02",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    }
+  ],
+  "title": "\"Ser afroperuana\" is to live through labor and survival ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "ser-afroperuana-is-to-live-through-labor-an",
+  "created_at": "2026-06-15T17:28:12.361Z",
+  "created_by": "p-caceres-c",
+  "updated_at": "2026-06-15T17:28:12.361Z",
+  "updated_by": "p-caceres-c"
+}
