@@ -421,7 +421,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"You said that the Black man was never a slave because he maintained his inner rhythm. For you, rhythm is like a treasure, the beauty that the man makes appear to all men, the yellow, the whites, the blacks. Then, what is rhythm?\" Eugenio Barba asks Victoria about her definition of rhythm "
+              "text": "\"You said that the Black man was never a slave because he maintained his inner rhythm. For you, rhythm is like a treasure, the beauty that the man makes appear to all men, the yellow, the whites, the blacks. Then, what is rhythm?\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Eugenio Barba asks Victoria about her definition of rhythm "
             }
           ]
         }
