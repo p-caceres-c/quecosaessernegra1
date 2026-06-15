@@ -482,7 +482,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"When I get on the bus, as soon as I’m near someone with a bag, they clutch it right there. They think I’m a thief.\" This testimony reflects on the criminalization of Blackness in Peru. "
+              "text": "\"When I get on the bus, as soon as I’m near someone with a bag, they clutch it right there. They think I’m a thief.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This testimony reflects on the criminalization of Blackness in Peru. "
             }
           ]
         }
