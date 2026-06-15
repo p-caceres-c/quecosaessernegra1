@@ -503,7 +503,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"I see that as absolute racism. They don’t appear in commercials for quality jeans, shampoo, soap, or sneakers. Black people don’t get into that; that’s where white people get in.”"
+              "text": "\"I see that as absolute racism. They don’t appear in commercials for quality jeans, shampoo, soap, or sneakers. Black people don’t get into that; that’s where white people get in.”",
+              "italic": true
             }
           ]
         }
