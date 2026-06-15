@@ -436,7 +436,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Things are better for us now with the individual plots, because you can see who works and who doesn't; back when we had the cooperative, the lazy ones lived off the hard workers. Now we are truly happy and content. We are right in the middle of the cotton season.\""
+              "text": "\"Things are better for us now with the individual plots, because you can see who works and who doesn't; back when we had the cooperative, the lazy ones lived off the hard workers. Now we are truly happy and content. We are right in the middle of the cotton season.\"",
+              "italic": true
             }
           ]
         }
