@@ -186,7 +186,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Indigenous and mestizos (mixed)\" Victoria Santa Cruz manifest"
+              "text": "\"Indigenous and mestizos (mixed)\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Victoria Santa Cruz manifest"
             }
           ]
         }
