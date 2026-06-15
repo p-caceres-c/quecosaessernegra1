@@ -216,7 +216,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Indeed, racism does exist in Peru, and it exists because our avenues for advancement are limited. To gain access to any given sphere, we are regularly compelled to prove that we are superior to everyone else. That is to say, while everyone must exert effort to access something or achieve a specific objective, as doing so always requires work, the effort *we* must expend, at any level, invariably exceeds that of the average person. In short, opportunities are scarce precisely *because* of racism. For instance, if a white person seeks employment at a company, they are accepted; a Black person, however, might not be. This is a frequent occurrence. Let's take, for example, a job application submitted to a government agency: people of color face discrimination. Ultimately, I believe that equal opportunities do not exist for people of color and white people; for the former, every opportunity and everything they have had to accomplish has required far more effort than it has for anyone else.\" Susana Matute Charun, a politician and activist, reflects on the implications that racism has in limiting the opportunities of Black people. "
+              "text": "\"Indeed, racism does exist in Peru, and it exists because our avenues for advancement are limited. To gain access to any given sphere, we are regularly compelled to prove that we are superior to everyone else. That is to say, while everyone must exert effort to access something or achieve a specific objective, as doing so always requires work, the effort *we* must expend, at any level, invariably exceeds that of the average person. In short, opportunities are scarce precisely *because* of racism. For instance, if a white person seeks employment at a company, they are accepted; a Black person, however, might not be. This is a frequent occurrence. Let's take, for example, a job application submitted to a government agency: people of color face discrimination. Ultimately, I believe that equal opportunities do not exist for people of color and white people; for the former, every opportunity and everything they have had to accomplish has required far more effort than it has for anyone else.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Susana Matute Charun, a politician and activist, reflects on the implications that racism has in limiting the opportunities of Black people. "
             }
           ]
         }
