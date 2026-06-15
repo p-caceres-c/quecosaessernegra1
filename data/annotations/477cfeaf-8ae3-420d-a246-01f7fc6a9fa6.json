@@ -189,7 +189,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"A society of ' castas' only offers them the exploitation of their ancestral languages and the need for whitening\". Castas was the racial colonial system that put Blackness in the worst social condition. Even though colonial systems are over, society still reflects on the oppression of Blackness, offering whitening as the option for social mobility. "
+              "text": "\"A society of ' castas' only offers them the exploitation of their ancestral languages and the need for whitening.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Castas was the racial colonial system that put Blackness in the worst social condition. Even though colonial systems are over, society still reflects on the oppression of Blackness, offering whitening as the option for social mobility. "
             }
           ]
         }
