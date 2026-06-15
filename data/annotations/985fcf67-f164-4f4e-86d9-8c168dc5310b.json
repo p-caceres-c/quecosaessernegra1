@@ -546,7 +546,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "“Generally, what happens in the art world is that people say, ‘Okay, Black people are good for doing this kind of thing.’ And often, the stereotypes we talk about prevent you from envisioning a Black person in any other way.”"
+              "text": "“Generally, what happens in the art world is that people say, ‘Okay, Black people are good for doing this kind of thing.’ And often, the stereotypes we talk about prevent you from envisioning a Black person in any other way.”",
+              "italic": true
             }
           ]
         }
