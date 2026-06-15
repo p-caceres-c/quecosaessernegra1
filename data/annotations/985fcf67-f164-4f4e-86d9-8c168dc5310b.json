@@ -342,7 +342,25 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"I was going to take care of some business at a bank in a municipality; white people get served first.\""
+              "text": "\"I was going to take care of some business at a bank in a municipality; white people get served first.\"",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Experiences of discrimination narrated by a Black man. "
             }
           ]
         }
