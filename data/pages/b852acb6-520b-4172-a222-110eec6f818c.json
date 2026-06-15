@@ -25,7 +25,9 @@
     },
     {
       "uuid": "9c109b25-01ad-4e34-90a8-f6d5666d62ce",
-      "includes": [],
+      "includes": [
+        "media"
+      ],
       "type": "event",
       "children": [
         {
@@ -370,6 +372,6 @@
   "slug": "afro-peruvians",
   "created_at": "2026-06-15T16:25:57.311Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-15T16:25:57.311Z",
+  "updated_at": "2026-06-15T21:09:10.292Z",
   "updated_by": "p-caceres-c"
 }
