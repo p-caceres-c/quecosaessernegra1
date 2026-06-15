@@ -66,7 +66,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"What should we, Black people, do if we do not even know how to write? To clean the bathroom in the big hotel and sweep?\" Poem “Muerte en el ring” by Nicomedes Santa Cruz. The poem reflects on the social condition of oppression of Blackness in Peru. "
+              "text": "\"What should we, Black people, do if we do not even know how to write? To clean the bathroom in the big hotel and sweep?\" ",
+              "italic": true
+            },
+            {
+              "text": "Poem “Muerte en el ring” by Nicomedes Santa Cruz. The poem reflects on the social condition of oppression of Blackness in Peru. "
             }
           ]
         }
