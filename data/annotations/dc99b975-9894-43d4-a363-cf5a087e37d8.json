@@ -79,7 +79,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Being Black in Peru means belonging to the history of injustices and suffering that started in 1532 when the first Black enslaved people came with the Spaniards. Black communities transformed the coast valleys and made other people rich.\" "
+              "text": "\"Being Black in Peru means belonging to the history of injustices and suffering that started in 1532 when the first Black enslaved people came with the Spaniards. Black communities transformed the coast valleys and made other people rich.\" ",
+              "italic": true
             }
           ]
         }
