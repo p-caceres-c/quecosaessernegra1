@@ -553,7 +553,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Once the dominant realizes that having too much means death, they will try to find their rhythm.\""
+              "text": "\"Once the dominant realizes that having too much means death, they will try to find their rhythm.\"",
+              "italic": true
             }
           ]
         }
