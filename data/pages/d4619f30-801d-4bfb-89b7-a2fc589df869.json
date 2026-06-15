@@ -1,0 +1,105 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nicomedes Santa Cruz was an Afro-Peruvian poet, folklorist, ethnomusicologist, and cultural intellectual whose work was central to the recovery and affirmation of Afro-Peruvian identity in the 20th century. Born in Lima in 1925, he grew up in a context marked by racial exclusion, which deeply shaped his commitment to documenting and valuing Black presence in Peruvian history. Through poetry, research, and public performance, he worked to make visible the cultural contributions of Afro-Peruvians, especially through language, rhythm, and oral traditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEa6AHrBsnVWTGcbIpgw_kGw25ntiACZq3VIWlo-Io4kAxNv6ZE9e2NZ6alx7g1SyMM6XV6L-UXD9_HOEyVUF7sEeFHuyJqaGOzJ3wuMHm4w&s=10",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "One of Santa Cruz’s most important contributions was his role in the revival and dissemination of Afro-Peruvian cultural expressions such as décimas, music, and dance. He combined literary production with performance, making his work accessible beyond academic spaces and connecting it to popular audiences. His writing often blended humor, critique, and historical reflection, challenging dominant narratives that minimized or erased Afro-descendant contributions to Peruvian nationhood.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Beyond his artistic production, Nicomedes Santa Cruz was also an important public intellectual and cultural ambassador for Afro-Peruvian culture, both in Peru and internationally. He traveled widely, presenting Afro-Peruvian traditions as part of a broader African diaspora history and culture. His legacy continues to shape contemporary Afro-Peruvian thought, music, and activism, positioning him as a foundational figure in the articulation of Black identity and cultural pride in Peru."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "uuid": "fc760f39-a2f6-414d-a6b6-64367ccf1cd1",
+      "includes": [],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Nicomedes Santa Cruz",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "nicomedes-santa-cruz",
+  "created_at": "2026-06-15T20:31:21.030Z",
+  "created_by": "p-caceres-c",
+  "updated_at": "2026-06-15T20:31:21.030Z",
+  "updated_by": "p-caceres-c"
+}
