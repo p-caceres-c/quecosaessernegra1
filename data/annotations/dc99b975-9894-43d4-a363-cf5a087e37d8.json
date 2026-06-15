@@ -628,7 +628,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"We also want to have a medical clinic in El Guayabo. And we want a mechanic workshop for the  young people who cannot attend university, so they can learn new abilities.\" Ali expresses the need for better opportunities in El Guayabo so people can access health care and education. "
+              "text": "\"We also want to have a medical clinic in El Guayabo. And we want a mechanic workshop for the  young people who cannot attend university, so they can learn new abilities.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ali expresses the need for better opportunities in El Guayabo so people can access health care and education. "
             }
           ]
         }
