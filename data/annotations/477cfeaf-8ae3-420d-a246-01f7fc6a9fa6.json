@@ -147,7 +147,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Their people now are little property landowners. They are facing the capitalist national market without organization to defend themselves\". This reflects the changes in the Agrarian Reformation that still created oppressive conditions for Black communities, even though the initial project was intended to break down barriers by granting workers property rights of the land. "
+              "text": "\"Their people now are little property landowners. They are facing the capitalist national market without organization to defend themselves\". ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This reflects the changes in the Agrarian Reformation that still created oppressive conditions for Black communities, even though the initial project was intended to break down barriers by granting workers property rights of the land. "
             }
           ]
         }
