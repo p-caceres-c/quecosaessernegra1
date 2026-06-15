@@ -8,7 +8,11 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "The song says, \" I will have to suffer in my life if I were born Black. My destiny is cruel. I carry the chains on my shoulders. The same chains from slavery.\""
+              "text": "The song says,"
+            },
+            {
+              "text": " \" I will have to suffer in my life if I were born Black. My destiny is cruel. I carry the chains on my shoulders. The same chains from slavery.\"",
+              "italic": true
             }
           ]
         }
