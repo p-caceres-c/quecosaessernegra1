@@ -101,7 +101,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Black people fought for other people to be free. The abolition of slavery in 1855 did not change his dominated condition.\" The narrator's phrase expresses the social conditions of Afro-Peruvian communities and how oppression has continued from the 1960s to today. "
+              "text": "\"Black people fought for other people to be free. The abolition of slavery in 1855 did not change his dominated condition.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The narrator's phrase expresses the social conditions of Afro-Peruvian communities and how oppression has continued from the 1960s to today. "
             }
           ]
         }
