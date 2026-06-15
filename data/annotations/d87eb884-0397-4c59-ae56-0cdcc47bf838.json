@@ -332,7 +332,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Something is on the verge of being lost if we do not look closely, not viewing it as something picturesque or exotic, but as the pure life hidden beneath that label known as 'folklore.\" Folklore represents the vestiges of a deeply wise culture that discovered the seed of harmony, enabling man to develop harmoniously.\" Victoria's ideas about how to pay attention to folklore from a horizontal non-colonial point of view. "
+              "text": "\"Something is on the verge of being lost if we do not look closely, not viewing it as something picturesque or exotic, but as the pure life hidden beneath that label known as 'folklore.\" Folklore represents the vestiges of a deeply wise culture that discovered the seed of harmony, enabling man to develop harmoniously.\"",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Victoria's ideas about how to pay attention to folklore from a horizontal non-colonial point of view. "
             }
           ]
         }
