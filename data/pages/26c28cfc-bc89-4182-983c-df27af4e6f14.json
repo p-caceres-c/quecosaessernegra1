@@ -1,0 +1,416 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Afro-Peruvian music is one of the most powerful expressions of Black cultural life in Peru. Emerging from the historical experiences of enslaved Africans and their descendants, it brings together rhythm, movement, and voice as forms of cultural continuity and resistance. Although Afro-Peruvian communities have often been marginalized within national narratives, their musical traditions have played a central role in shaping Peruvian culture. Afro-Peruvian music is not only an artistic practice; it is also a space where history, memory, and identity are preserved and reimagined."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "data:image/jpeg;base64,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",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "At its core, Afro-Peruvian music is deeply rooted in rhythm. During the colonial period, enslaved Africans were frequently prohibited from using traditional instruments. In response, they developed new forms of musical expression using the body, everyday objects, and improvised percussion. These practices evolved over time into distinctive musical traditions that continue to define Afro-Peruvian culture today. Rhythm, therefore, is not only a musical element, it is a historical trace of survival, adaptation, and creativity under conditions of constraint."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Afro-Peruvian instruments ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Afro-Peruvian music is characterized by a unique set of instruments, many of which reflect this history of innovation and resilience."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "One of the most iconic instruments is the "
+        },
+        {
+          "text": "Cajón Afroperuano",
+          "italic": true
+        },
+        {
+          "text": ". Cajón is a wooden box drum that the musician sits on and plays by striking its front surface with their hands. It produces a wide range of tones, from deep bass sounds to sharp, snare-like accents. The cajón is believed to have originated during the colonial period, when enslaved Africans adapted shipping crates or wooden boxes into percussion instruments. Today, it is central not only to Afro-Peruvian music but also to other genres, including flamenco."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "data:image/jpeg;base64,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",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Another important instrument is the "
+        },
+        {
+          "text": "Cajita",
+          "italic": true
+        },
+        {
+          "text": ". The cajita is a small wooden box with a lid, played by opening and closing it rhythmically while striking it with a stick. The resulting sound creates a syncopated, almost conversational rhythm. Historically, the cajita is said to have been adapted from collection boxes used in churches, transformed into a musical instrument through Afro-Peruvian creativity."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "data:image/jpeg;base64,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",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Quijada de burro (donkey jawbone) is perhaps one of the most distinctive instruments. Made from the dried jawbone of a donkey, it produces sound when struck or shaken, causing the loose teeth to rattle. This creates a buzzing, percussive texture that adds depth and complexity to musical ensembles. The quijada reflects the use of natural and available materials to create sound, highlighting the resourcefulness embedded in Afro-Peruvian musical traditions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Together, these instruments form the rhythmic foundation of Afro-Peruvian music, emphasizing percussion, syncopation, and collective performance."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "data:image/jpeg;base64,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",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Afro-Peruvian Music Genres ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Afro-Peruvian music includes a variety of musical forms, each with its own history, rhythm, and cultural significance. Among the most well-known are festejo, zamacueca, and landó."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Festejo is one of the most vibrant and widely recognized Afro-Peruvian genres. Characterized by fast rhythms, strong percussion, and energetic dance, festejo is often associated with celebration and community gatherings. Its lyrics frequently incorporate humor, improvisation, and references to everyday life. The dance that accompanies festejo emphasizes movement of the hips and body, reflecting both joy and embodied expression. At the same time, festejo carries historical significance, as it emerged from Afro-Peruvian communities navigating both oppression and celebration."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "uuid": "54f2b795-08a6-4908-91c6-715593ef0f89",
+      "includes": [],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Zamacueca is an older musical and dance form that influenced several genres across Latin America, including the Chilean cueca and the Peruvian marinera. It combines elements of African, Indigenous, and Spanish traditions, making it a key example of cultural mixing. The dance typically involves a courtship dynamic between partners, using handkerchiefs and stylized movement. While zamacueca is often associated with national folklore, its Afro-Peruvian roots highlight the central role of Black communities in shaping Peruvian cultural forms."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "f495c313-a167-4e66-a85a-2ba2af43b469",
+      "includes": [],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Landó is a slower, more introspective genre. Its rhythms are more subdued, often creating a contemplative or melancholic mood. Landó is sometimes understood as a reconstruction or reinterpretation of older Afro-Peruvian musical traditions, shaped in part by cultural revival movements in the twentieth century. The genre emphasizes depth of rhythm and feeling, allowing space for reflection, memory, and emotional expression."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "3a48af2a-8daf-4c77-a54c-1c1258f58cc1",
+      "includes": [],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Afro-Peruvian music is not only about sound. It is also about memory. Through rhythm, lyrics, and performance, these musical traditions carry histories that have often been excluded from official narratives. Songs and dances can reference the past indirectly, preserving fragments of experience that might otherwise be forgotten. In this sense, music functions as a form of oral history, transmitting knowledge across generations."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "At the same time, music is a space of resistance. By creating and performing Afro-Peruvian music, communities assert their presence and challenge cultural marginalization. This is especially important in a context where Afro-Peruvian contributions have often been appropriated or minimized within national culture. Musical performance becomes a way of reclaiming identity, visibility, and dignity.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Afro-Peruvian women play a crucial role in these processes. As performers, cultural workers, and community members, they sustain and transform musical traditions. Their participation highlights how music intersects with gender, labor, and identity, reinforcing the idea that cultural expression is deeply embedded in everyday life."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Afro-Peruvian music and sound",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "afro-peruvian-music-and-sound",
+  "created_at": "2026-06-15T20:29:03.656Z",
+  "created_by": "p-caceres-c",
+  "updated_at": "2026-06-15T20:29:03.656Z",
+  "updated_by": "p-caceres-c"
+}
