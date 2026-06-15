@@ -373,7 +373,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"She thought (the mom) that if we learned how to read and write, we would have more opportunities in our lives. Maybe we could have an opportunity better than the ones she had.\" Chicha reflects on educational opportunities as a means of social mobility. "
+              "text": "\"She thought (the mom) that if we learned how to read and write, we would have more opportunities in our lives. Maybe we could have an opportunity better than the ones she had.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chicha reflects on educational opportunities as a means of social mobility. "
             }
           ]
         }
