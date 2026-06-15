@@ -1,0 +1,136 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "To be Afro-Peruvian is also to challenge exclusion and to imagine new forms of belonging within the nation. Afro-Peruvian communities have historically been marginalized within dominant narratives of Peruvian identity, often rendered invisible despite their cultural and historical contributions. Reclaiming visibility is therefore both a cultural and political act."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "El quinto suyo",
+          "italic": true
+        },
+        {
+          "text": " proposes a rethinking of the nation by positioning Afro-Peruvians as a “fifth nation” within Peru. The term "
+        },
+        {
+          "text": "suyo",
+          "italic": true
+        },
+        {
+          "text": " comes from the organization of the Inca Empire ("
+        },
+        {
+          "text": "Tahuantinsuyo",
+          "italic": true
+        },
+        {
+          "text": "), which was divided into four regions or “"
+        },
+        {
+          "text": "suyos",
+          "italic": true
+        },
+        {
+          "text": ".” By invoking this framework, the documentary symbolically inserts Afro-Peruvians as a “fifth suyo,” challenging the historical exclusion of Black communities from dominant narratives of the nation.\n\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://i.pinimg.com/474x/02/1c/47/021c470552fd717be437a8f5aaf70eb2.jpg",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The documentary emphasizes community, collective memory, and cultural continuity as foundations for political recognition. It highlights how Afro-Peruvian identity is not only about shared history but also about ongoing struggles for inclusion, representation, and rights. Through this lens, Afro-Peruvian women emerge as key actors in imagining alternative futures. Their narratives move beyond survival to articulate visions of belonging that challenge the limits of mestizo nationalism. In doing so, they redefine what it means to be part of the nation and assert Afro-Peruvian presence as central to Peru’s past, present, and future."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "uuid": "356de6ac-73aa-454e-9c84-3676c132c83a",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "\"Ser afroperuana\" is to imagine a new nation ",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "ser-afroperuana-is-to-imagine-a-new-nation",
+  "created_at": "2026-06-15T17:31:47.619Z",
+  "created_by": "p-caceres-c",
+  "updated_at": "2026-06-15T17:31:47.619Z",
+  "updated_by": "p-caceres-c"
+}
