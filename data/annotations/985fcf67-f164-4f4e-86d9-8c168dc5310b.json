@@ -457,7 +457,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"There are people, and I’m talking about white people, who teach this in children; I’ve experienced it myself. I’ll be walking along, and people say to their kids, “Look, there’s a Black person.” So the children start saying, “Black, Black,” and that shouldn’t happen.\" This testimony by a Black man is interesting as it is the same experience that Franz Fanon reflects on in \"The fact of Blackness\" to talk about how Blackness is constructed with no ontological resistance, meaning that Blackness is dehumanized. "
+              "text": "\"There are people, and I’m talking about white people, who teach this in children; I’ve experienced it myself. I’ll be walking along, and people say to their kids, “Look, there’s a Black person.” So the children start saying, “Black, Black,” and that shouldn’t happen.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This testimony by a Black man is interesting as it is the same experience that Franz Fanon reflects on in \"The fact of Blackness\" to talk about how Blackness is constructed with no ontological resistance, meaning that Blackness is dehumanized. "
             }
           ]
         }
