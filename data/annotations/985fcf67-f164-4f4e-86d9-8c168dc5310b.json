@@ -300,7 +300,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Everything I had to, I had to work harder with more effort.\" In this testimony, Susana reflects on the extra effort she had to put in to accomplish things as a Black woman in Peru."
+              "text": "\"Everything I had to, I had to work harder with more effort.\"",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " In this testimony, Susana reflects on the extra effort she had to put in to accomplish things as a Black woman in Peru."
             }
           ]
         }
