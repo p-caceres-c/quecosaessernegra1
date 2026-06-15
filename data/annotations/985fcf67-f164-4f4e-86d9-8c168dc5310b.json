@@ -385,7 +385,8 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"They said, \"Look, brother, I don’t want to let you down, but I'm gonna tell you the truth, you got here cuz you Black\" "
+              "text": "\"They said, \"Look, brother, I don’t want to let you down, but I'm gonna tell you the truth, you got here cuz you Black\" ",
+              "italic": true
             }
           ]
         }
