@@ -473,7 +473,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\" Yes, I believe we have Africa as a mother.” In this testimony, Eva Ayllon also highlighted the role of African in Afro-Peruvian identity"
+              "text": "\"Yes, I believe we have Africa as a mother.” ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this testimony, Eva Ayllon also highlighted the role of African in Afro-Peruvian identity"
             }
           ]
         }
