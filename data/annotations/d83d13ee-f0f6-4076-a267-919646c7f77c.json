@@ -657,7 +657,25 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Black woman mentions \" If we as women do not realize that if we dance in a certain way, if we laugh this other way, or if we wear those clothes, it's because our body, our energy feels like that. We cannot let the media use that as sexual tourism.\" This phrase acts as a critique of the intersection of race and gender that hypersexualizes black women and their territories."
+              "text": "\"If we as women do not realize that if we dance in a certain way, if we laugh this other way, or if we wear those clothes, it's because our body, our energy feels like that. We cannot let the media use that as sexual tourism.\"",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Monica reflects on intersectionality. Through this testimony, she critiques the intersection of race and gender that hypersexualizes black women and their territories."
             }
           ]
         }
