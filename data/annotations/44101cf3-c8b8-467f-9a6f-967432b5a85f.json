@@ -237,7 +237,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Based on my travel experience, I believe that, unfortunately, Peru is one of the most racist countries I know. I think the racism here against the cholo is worse or more visible than the racism against Black people. When it comes to Black people, it is more hidden, covert, and subtle.” This testimony connects to what scholars have reference as racism in Peru being subtle "
+              "text": "\"Based on my travel experience, I believe that, unfortunately, Peru is one of the most racist countries I know. I think the racism here against the cholo is worse or more visible than the racism against Black people. When it comes to Black people, it is more hidden, covert, and subtle.” ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This testimony connects to what scholars have reference as racism in Peru being subtle "
             }
           ]
         }
