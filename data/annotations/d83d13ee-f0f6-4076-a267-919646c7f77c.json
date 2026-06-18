@@ -427,7 +427,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": " \" God, I do not think that there is a Black person who says that Africa is not our mother,\" Victoria Santa Cruz reflects on the importance of Africa in Black identity."
+              "text": "\"God, I do not think that there is a Black person who says that Africa is not our mother.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Victoria Santa Cruz reflects on the importance of Africa in Black identity."
             }
           ]
         }
