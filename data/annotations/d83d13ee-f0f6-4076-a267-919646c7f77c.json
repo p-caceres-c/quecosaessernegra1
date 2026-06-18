@@ -585,7 +585,25 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\" The Women's issues bureau revealed in a public audience that 90% of the Peruvians are discriminated for being non-white. And, yeah, 50% that are discriminated against are women.\" Susana expands on the racial issues by discussing the intersection of being Black and being a woman.\" In this testimony, Susana Matute Charun highlights the double oppression of Black women in Peru"
+              "text": "\"The Women's issues bureau revealed in a public audience that 90% of the Peruvians are discriminated for being non-white. And, yeah, 50% that are discriminated against are women.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "italic": true,
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Susana expands on the racial issues by discussing the intersection of being Black and being a woman. Susana  highlights the double oppression of Black women in Peru"
             }
           ]
         }
