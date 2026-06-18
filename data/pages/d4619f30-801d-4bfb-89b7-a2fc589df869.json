@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Nicomedes Santa Cruz was an Afro-Peruvian poet, folklorist, ethnomusicologist, and cultural intellectual whose work was central to the recovery and affirmation of Afro-Peruvian identity in the 20th century. Born in Lima in 1925, he grew up in a context marked by racial exclusion, which deeply shaped his commitment to documenting and valuing Black presence in Peruvian history. Through poetry, research, and public performance, he worked to make visible the cultural contributions of Afro-Peruvians, especially through language, rhythm, and oral traditions."
         }
       ]
@@ -37,7 +45,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "One of Santa Cruz’s most important contributions was his role in the revival and dissemination of Afro-Peruvian cultural expressions such as décimas, music, and dance. He combined literary production with performance, making his work accessible beyond academic spaces and connecting it to popular audiences. His writing often blended humor, critique, and historical reflection, challenging dominant narratives that minimized or erased Afro-descendant contributions to Peruvian nationhood.\n"
+          "text": "One of Santa Cruz’s most important contributions was his role in the revival and dissemination of Afro-Peruvian cultural expressions such as décimas, music, and dance. He combined literary production with performance, making his work accessible beyond academic spaces and connecting it to popular audiences. His writing often blended humor, critique, and historical reflection, challenging dominant narratives that minimized or erased Afro-descendant contributions to Peruvian nationhood."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -59,7 +83,9 @@
     },
     {
       "uuid": "fc760f39-a2f6-414d-a6b6-64367ccf1cd1",
-      "includes": [],
+      "includes": [
+        "media"
+      ],
       "type": "event",
       "children": [
         {
@@ -100,7 +126,7 @@
   "slug": "nicomedes-santa-cruz",
   "created_at": "2026-06-15T20:31:21.030Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-15T20:40:18.349Z",
+  "updated_at": "2026-06-18T17:04:20.482Z",
   "updated_by": "p-caceres-c",
   "parent": "2394a9b6-a9fd-4ee5-99d7-269702639b76"
 }
