@@ -306,14 +306,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "uuid": "3d75dcf2-20e1-4f3a-952c-73e616e9c33e",
       "includes": [
         "media"
@@ -350,7 +342,7 @@
   "slug": "notable-afro-peruvians",
   "created_at": "2026-06-15T20:38:27.866Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-18T17:18:48.112Z",
+  "updated_at": "2026-06-18T18:08:27.412Z",
   "updated_by": "p-caceres-c",
   "parent": "2394a9b6-a9fd-4ee5-99d7-269702639b76"
 }
