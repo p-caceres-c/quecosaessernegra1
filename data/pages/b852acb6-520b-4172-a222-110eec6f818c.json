@@ -144,7 +144,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Even though Afro-Peruvian women have faced constant racial and gendered violence, they are also producers of knowledge, memory, and resistance. They have created spaces to narrate their experiences, build community, and redefine Afro-Peruvian identity beyond oppression. For that reason, this project extends Victoria Santa Cruz’s questions and premise: “¿Qué cosa es ser negra?” or, in English, “What does it mean to be a Black woman?” or “What does it mean to be an Afro-Peruvian woman?”\n\n"
+          "text": "Even though Afro-Peruvian women have faced constant racial and gendered violence, they are also producers of knowledge, memory, and resistance. They have created spaces to narrate their experiences, build community, and redefine Afro-Peruvian identity beyond oppression. For that reason, this project extends Victoria Santa Cruz’s questions and premise: “¿Qué cosa es ser negra?” or, in English, “What does it mean to be a Black woman?” or “What does it mean to be an Afro-Peruvian woman?”"
         }
       ]
     },
@@ -152,8 +152,26 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Victoria Santa Cruz",
+          "text": "",
           "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/victoria-santa-cruz/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/victoria-santa-cruz/",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/victoria-santa-cruz/",
+          "text": "Victoria Santa Cruz"
         },
         {
           "text": " is one of the most important Afro-Peruvian women. She was a choreographer, professor, and artist. Her most famous work is the poem \"Me gritaron Negra.\" In this poem, she talks about her experience growing up as a Black woman in Peru. She narrates how her identity journey was marked by being called out and reduced to just her Blackness from a young age. Victoria asks questions to try to understand the implications of being racialized and gendered in a country like Peru. "
@@ -394,6 +412,6 @@
   "slug": "afro-peruvians",
   "created_at": "2026-06-15T16:25:57.311Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-18T16:53:23.751Z",
+  "updated_at": "2026-06-18T17:19:25.395Z",
   "updated_by": "p-caceres-c"
 }
