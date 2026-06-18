@@ -12,6 +12,22 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Carrillo, Mónica. "
         },
         {
@@ -50,7 +66,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nFanon, Frantz. \"The Fact of Blackness.\" "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Fanon, Frantz. \"The Fact of Blackness.\" "
         },
         {
           "text": "Black Skin, White Masks",
@@ -70,6 +102,14 @@
         },
         {
           "text": ", 1967, pp. 82-108."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -120,6 +160,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Instituto Nacional de Estadística e Informática (INEI). "
         },
         {
@@ -147,14 +195,46 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nLuciano, José Carlos. "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Luciano, José Carlos. "
         },
         {
           "text": "Los afroperuanos: Racismo, discriminación e identidad",
           "italic": true
         },
         {
-          "text": ". 2nd ed., Centro de Desarrollo Étnico (CEDET), 2012.\n\n"
+          "text": ". 2nd ed., Centro de Desarrollo Étnico (CEDET), 2012."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -181,7 +261,23 @@
           ]
         },
         {
-          "text": ". Accessed 6 June 2025.\n"
+          "text": ". Accessed 6 June 2025."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -196,7 +292,23 @@
           "italic": true
         },
         {
-          "text": ". Ministerio de Cultura del Perú, 2016.\n"
+          "text": ". Ministerio de Cultura del Perú, 2016."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -212,6 +324,14 @@
         },
         {
           "text": ". Ministerio de Cultura del Perú, 2016."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -250,6 +370,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Rojas-Stewart, Mónica. “Lucía, Bartola, y Rosa: Voice, Memory, and Contributions of Three Afro-Peruvian Women.” "
         },
         {
@@ -273,6 +401,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Santa Cruz, Victoria. "
         },
         {
@@ -281,6 +417,14 @@
         },
         {
           "text": ". 2nd ed., Debate, 2019."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -324,6 +468,6 @@
   "slug": "bibliography",
   "created_at": "2026-06-15T19:31:52.989Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-15T19:31:52.989Z",
+  "updated_at": "2026-06-18T17:50:45.011Z",
   "updated_by": "p-caceres-c"
 }
