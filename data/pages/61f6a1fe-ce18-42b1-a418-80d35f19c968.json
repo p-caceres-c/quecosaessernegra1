@@ -12,7 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The agrarian reform implemented under the government of Juan Velasco Alvarado marked a turning point in Peru’s social and political history. Initiated in 1969, the reform sought to dismantle the hacienda system and redistribute land to peasants and rural workers. For decades, haciendas had structured rural life through systems of labor exploitation that disproportionately affected Indigenous and Afro-Peruvian communities. By expropriating land and reorganizing it into cooperatives and collective enterprises, the reform aimed to challenge long-standing inequalities and transform the relationship between land, labor, and power."
+          "text": "The agrarian reformation implemented under the government of Juan Velasco Alvarado marked a turning point in Peru’s social and political history. Initiated in 1969, the reform sought to dismantle the hacienda system and redistribute land to peasants and rural workers. For decades, haciendas had structured rural life through systems of labor exploitation that disproportionately affected Indigenous and Afro-Peruvian communities. By expropriating land and reorganizing it into cooperatives and collective enterprises, the reform aimed to challenge long-standing inequalities and transform the relationship between land, labor, and power."
         }
       ]
     },
@@ -170,7 +170,9 @@
     },
     {
       "uuid": "62e9a1be-2bf9-4c14-912a-815942d81f86",
-      "includes": [],
+      "includes": [
+        "media"
+      ],
       "type": "event",
       "children": [
         {
@@ -203,7 +205,7 @@
   "slug": "agrarian-reformation",
   "created_at": "2026-06-15T20:23:00.215Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-15T20:24:45.263Z",
+  "updated_at": "2026-06-18T17:00:40.850Z",
   "updated_by": "p-caceres-c",
   "parent": "2394a9b6-a9fd-4ee5-99d7-269702639b76"
 }
