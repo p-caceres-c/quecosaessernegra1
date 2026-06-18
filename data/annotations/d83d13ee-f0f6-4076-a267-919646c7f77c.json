@@ -193,7 +193,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\" What does the human know about the experience of races? And why do races exist? If they do not know, why do some people believe they have the right to treat others badly? And why do they treat themselves the same? \" Victoria Santa Cruz asks about racial politics and how absurd the racial hierarchy can be. "
+              "text": "\" What does the human know about the experience of races? And why do races exist? If they do not know, why do some people believe they have the right to treat others badly? And why do they treat themselves the same? \" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Victoria Santa Cruz asks about racial politics and how absurd the racial hierarchies could be. "
             }
           ]
         }
