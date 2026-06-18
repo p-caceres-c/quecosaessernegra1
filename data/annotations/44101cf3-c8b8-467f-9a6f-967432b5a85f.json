@@ -108,7 +108,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Some people, they look at it, they see your art. But others... others, I think. They just see the body, or I don't know, but everyone... everyone, I believe, approaches it by looking at your skin. Sandra reflects on how her body is reduced while she performs dances and her artwork. "
+              "text": "\"Some people, they look at it, they see your art. But others... others, I think. They just see the body, or I don't know, but everyone... everyone, I believe, approaches it by looking at your skin.\"",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sandra reflects on how her body is reduced while she performs dances and her artwork. "
             }
           ]
         }
