@@ -519,7 +519,27 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"I feel really proud to be Black. And all my life I have loved my color. I always defend it\". This testimony by an unknown Black woman reveals her process of identity. "
+              "text": "\"I feel really proud to be Black. And all my life, I have loved my color. I always defend it.\"",
+              "italic": true
+            },
+            {
+              "text": " "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This testimony by an unknown Black woman reveals her process of identity. "
             }
           ]
         }
