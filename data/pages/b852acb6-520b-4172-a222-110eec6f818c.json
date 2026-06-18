@@ -4,6 +4,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Afro-Peruvians have been among the most marginalized ethnic groups in Peru due to the legacies of slavery, colonialism, and the plantation economy. Afro-Peruvians have been constantly and systematically excluded from national narratives through the politics of"
         },
         {
@@ -144,7 +152,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Victoria Santa Cruz is one of the most important Afro-Peruvian women. She was a choreographer, professor, and artist. Her most famous work is the poem \"Me gritaron Negra.\" In this poem, she talks about her experience growing up as a Black woman in Peru. She narrates how her identity journey was marked by being called out and reduced to just her Blackness from a young age. Victoria asks questions to try to understand the implications of being racialized and gendered in a country like Peru. "
+          "text": "Victoria Santa Cruz",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/victoria-santa-cruz/"
+        },
+        {
+          "text": " is one of the most important Afro-Peruvian women. She was a choreographer, professor, and artist. Her most famous work is the poem \"Me gritaron Negra.\" In this poem, she talks about her experience growing up as a Black woman in Peru. She narrates how her identity journey was marked by being called out and reduced to just her Blackness from a young age. Victoria asks questions to try to understand the implications of being racialized and gendered in a country like Peru. "
         }
       ]
     },
@@ -211,19 +223,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/ser-afroperuana-is-to-face-racism-and-denia/"
         },
         {
           "type": "link",
           "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/ser-afroperuana-is-to-face-racism-and-denia/",
           "children": [
             {
-              "text": "First, “Ser afroperuana” is to face racism and denial"
+              "text": "First, “Ser afroperuana” is to face racism and denial",
+              "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/ser-afroperuana-is-to-face-racism-and-denia/"
             }
           ]
         },
         {
-          "text": ""
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/ser-afroperuana-is-to-face-racism-and-denia/"
         }
       ]
     },
@@ -254,19 +269,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/ser-afroperuana-is-to-live-through-labor-an/"
         },
         {
           "type": "link",
           "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/ser-afroperuana-is-to-live-through-labor-an/",
           "children": [
             {
-              "text": "Second, “Ser afroperuana” is to live through labor and inequality."
+              "text": "Second, “Ser afroperuana” is to live through labor and inequality.",
+              "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/ser-afroperuana-is-to-live-through-labor-an/"
             }
           ]
         },
         {
-          "text": ""
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/ser-afroperuana-is-to-live-through-labor-an/"
         }
       ]
     },
@@ -297,14 +315,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/ser-afroperuana-is-resisting-through-art-an/"
         },
         {
           "type": "link",
           "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/ser-afroperuana-is-resisting-thorugh-art-an/",
           "children": [
             {
-              "text": "Third, “Ser afroperuana” is resisting through art."
+              "text": "Third, “Ser afroperuana” is resisting through art.",
+              "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/ser-afroperuana-is-resisting-through-art-an/"
             }
           ]
         },
@@ -332,14 +352,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/ser-afroperuana-is-to-imagine-a-new-nation/"
         },
         {
           "type": "link",
           "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/ser-afroperuana-is-to-imagine-a-new-nation/",
           "children": [
             {
-              "text": "Lastly, “Ser afroperuana” is to imagine a new nation."
+              "text": "Lastly, “Ser afroperuana” is to imagine a new nation.",
+              "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/ser-afroperuana-is-to-imagine-a-new-nation/"
             }
           ]
         },
@@ -372,6 +394,6 @@
   "slug": "afro-peruvians",
   "created_at": "2026-06-15T16:25:57.311Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-15T21:09:10.292Z",
+  "updated_at": "2026-06-18T16:53:23.751Z",
   "updated_by": "p-caceres-c"
 }
