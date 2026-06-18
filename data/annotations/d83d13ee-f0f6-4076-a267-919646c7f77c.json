@@ -84,7 +84,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Slavery was the trade of a lot of intellectuals, thinkers, artisans, technicians from one continent to another.\" In this testimony, Monica Carrillo recognizes the violence of slavery. "
+              "text": "\"Slavery was the trade of a lot of intellectuals, thinkers, artisans, technicians from one continent to another.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this testimony, Monica Carrillo recognizes the violence of slavery. "
             }
           ]
         }
