@@ -155,7 +155,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"A Black could barely study in high school, maybe just elementary.\" This testimony also reflects on the lack of access of Black people to education"
+              "text": "\"A Black could barely study in high school, maybe just elementary.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This testimony also reflects on the lack of access of Black people to education"
             }
           ]
         }
