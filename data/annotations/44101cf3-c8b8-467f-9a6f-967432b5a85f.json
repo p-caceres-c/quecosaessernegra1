@@ -158,7 +158,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"When people see a white person with a Black person or a Black person with a white person, they really do turn their heads or look on in astonishment.”  Esther “Mamaine” Cartagena reflects on the racism in interracial relationships. "
+              "text": "\"When people see a white person with a Black person or a Black person with a white person, they really do turn their heads or look on in astonishment.” ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Esther “Mamaine” Cartagena reflects on the racism in interracial relationships. "
             }
           ]
         }
