@@ -262,7 +262,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"And so, I discover that, in the midst of this journey, learning how to be Black is difficult. It is hard, and at times, it is painful. \" Susana's testimony"
+              "text": "\"And so, I discover that, in the midst of this journey, learning how to be Black is difficult. It is hard, and at times, it is painful.\"",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Susana's testimony reflects on what it means to be a Black woman in a racist society as Peru. "
             }
           ]
         }
