@@ -46,7 +46,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Here we go, the congos. We came to sing here, the congos. Our dances and songs celebrating freedom,\" the song \"Danza de los Congos\" by Miki Gonzales, make reference to enslaved Africans and the survival of their culture. "
+              "text": "\"Here we go, the congos. We came to sing here, the congos. Our dances and songs celebrating freedom,\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The song \"Danza de los Congos\" by Miki Gonzales references enslaved Africans and the survival of their culture in Peru."
             }
           ]
         }
