@@ -87,7 +87,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -131,6 +139,6 @@
   "slug": "ser-afroperuana-is-to-imagine-a-new-nation",
   "created_at": "2026-06-15T17:31:47.619Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-15T17:31:47.619Z",
+  "updated_at": "2026-06-18T17:48:07.519Z",
   "updated_by": "p-caceres-c"
 }
