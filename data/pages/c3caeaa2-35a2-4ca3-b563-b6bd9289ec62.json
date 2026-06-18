@@ -108,6 +108,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "These representations are not neutral; they shape how Afro-Peruvian people are perceived and treated in everyday life. Stereotypical imagery contributes to processes of dehumanization, invisibility, and exclusion, reinforcing broader structures of racial inequality. At the same time, the persistence of these images reveals the difficulty of challenging deeply embedded visual regimes that define who belongs within the national imaginary."
         }
       ]
@@ -178,7 +186,7 @@
   "slug": "afro-peruvian-visual-representations",
   "created_at": "2026-06-15T20:30:09.164Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-15T20:39:51.301Z",
+  "updated_at": "2026-06-18T17:03:28.077Z",
   "updated_by": "p-caceres-c",
   "parent": "2394a9b6-a9fd-4ee5-99d7-269702639b76"
 }
