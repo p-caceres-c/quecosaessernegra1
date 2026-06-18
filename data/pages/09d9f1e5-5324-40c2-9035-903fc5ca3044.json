@@ -4,7 +4,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nJosé Carlos “Pepe” Luciano Huapaya was an Afro-Peruvian sociologist, academic, scholar, intellectual, and activist who fought for the recognition of Human Rights for Afro-Peruvian communities. His academic work was also tied to his political and cultural organizing in the Afro-Peruvian movements. His work was important because it analyzed the structural inequalities that shaped Blackness in the nation's history. \n"
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "José Carlos “Pepe” Luciano Huapaya was an Afro-Peruvian sociologist, academic, scholar, intellectual, and activist who fought for the recognition of Human Rights for Afro-Peruvian communities. His academic work was also tied to his political and cultural organizing in the Afro-Peruvian movements. His work was important because it analyzed the structural inequalities that shaped Blackness in the nation's history. \n"
         }
       ]
     },
@@ -29,7 +37,23 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "In 1980, he started working at the Instituto de Investigaciones Afroperuanas (INAPE), or in English, the Afro-Peruvian Research Institute, with another scholar named Jose \"Cheche\" Campos Davila. In this space, both scholars contributed to research, discussion, and political engagement around Afro-Peruvian life. Luciano’s involvement helped shape this space as one committed to producing knowledge from within Afro-Peruvian experiences and struggles.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -98,7 +122,7 @@
   "slug": "jose-pepe-luciano",
   "created_at": "2026-06-15T20:36:20.243Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-15T20:40:27.911Z",
+  "updated_at": "2026-06-18T17:06:24.380Z",
   "updated_by": "p-caceres-c",
   "parent": "2394a9b6-a9fd-4ee5-99d7-269702639b76"
 }
