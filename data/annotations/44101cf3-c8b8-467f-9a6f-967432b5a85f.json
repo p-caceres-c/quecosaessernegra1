@@ -33,7 +33,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"A long, long time ago, back when I was still just a little kid, I was always hearing my aunts tell me: \"Now, don't go getting involved with a Black woman, no, not with a Black woman! You have to marry a white woman so your kids turn out good-looking... and not like Machi.\"\" This testimony by a Black man reflects on the politics of blanqueamiento, whitening, and the colonial idea that it is necessary to have lighter children in order to delimit Blackness. Additionally, the testimony claims that lighter-skinned children are considered more beautiful, which also reflects a beauty standard rooted in whiteness."
+              "text": "\"A long, long time ago, back when I was still just a little kid, I was always hearing my aunts tell me: \"Now, don't go getting involved with a Black woman, no, not with a Black woman! You have to marry a white woman so your kids turn out good-looking... and not like Machi.\"",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This testimony by a Black man reflects on the politics of blanqueamiento, whitening, and the colonial idea that it is necessary to have lighter children in order to delimit Blackness. Additionally, the testimony claims that lighter-skinned children are considered more beautiful, which also reflects a beauty standard rooted in whiteness."
             }
           ]
         }
