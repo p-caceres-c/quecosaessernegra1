@@ -239,7 +239,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"My mom had another way of saying it. She said: if you do not have dignity, go out to the streets and find it\". In this phrase, Victoria refers to the idea of living and being treated with dignity for everyone. "
+              "text": "\"My mom had another way of saying it. She said: If you do not have dignity, go out to the streets and find it.\"",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " In this phrase, Victoria refers to the idea of living and being treated with dignity for everyone. "
             }
           ]
         }
