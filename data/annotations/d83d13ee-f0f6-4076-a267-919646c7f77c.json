@@ -285,7 +285,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\" The only pleasure I feel is that sometimes I am in front of people who have racialized me. And they clap for my art, and with tears in their eyes after my show, I could say that Black woman is me\". In this testimony, Eva Ayllon, a famous Afro-Peruvian singer, highlights her role as an artist challenging the racist stereotypes portrayed in her as a Black woman. "
+              "text": "\"The only pleasure I feel is that sometimes I am in front of people who have racialized me. And they clap for my art, and with tears in their eyes after my show, I could say that Black woman is me.\"",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " In this testimony, Eva Ayllon, a famous Afro-Peruvian singer, highlights her role as an artist challenging the racist stereotypes portrayed in her as a Black woman. "
             }
           ]
         }
