@@ -20,7 +20,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Santa Cruz approached art not simply as performance, but as a form of knowledge. For her, the body was a site where history, memory, and identity converge. Through rhythm, movement, and voice, she developed a practice that sought to reconnect Afro-Peruvian people with ancestral forms of expression that had been suppressed or devalued. Her work emphasized the importance of rhythm as a fundamental element of being, something that is not only heard, but felt and embodied."
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Santa Cruz approached art not simply as performance, but as a form of knowledge. For her, the body was a site where history, memory, and identity. Through rhythm, movement, and voice, she developed a practice that sought to reconnect Afro-Peruvian people with ancestral forms of expression that had been suppressed or devalued. Her work emphasized the importance of rhythm as a fundamental element of being, something that is not only heard, but felt and embodied."
         }
       ]
     },
@@ -56,17 +64,34 @@
           "text": "This perspective is powerfully articulated in her well-known poem "
         },
         {
-          "text": "Me gritaron negra",
+          "text": "\"Me gritaron negra,\" i",
           "italic": true
         },
         {
-          "text": ", where she narrates an experience of racial discrimination and traces a journey from internalized shame to affirmation of Black identity. The poem moves from the violence of being called “negra” as an insult to reclaiming the term as a source of pride and strength. In doing so, Santa Cruz transforms language, memory, and emotion into a collective statement about Black consciousness and resistance.\n"
+          "text": "n which she recounts an experience of racial discrimination and traces a journey from internalized shame"
+        },
+        {
+          "italic": true,
+          "text": " to the "
+        },
+        {
+          "text": "affirmation of Black identity. The poem moves from the violence of being called “negra” as an insult to reclaiming the term as a source of pride and strength. In doing so, Santa Cruz transforms language, memory, and emotion into a collective statement about Black consciousness and resistance.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
     {
       "uuid": "a683e47e-45ff-4b36-9221-6fb9629ffc64",
-      "includes": [],
+      "includes": [
+        "media"
+      ],
       "type": "event",
       "children": [
         {
@@ -107,7 +132,7 @@
   "slug": "victoria-santa-cruz",
   "created_at": "2026-06-15T20:33:47.970Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-15T20:40:53.075Z",
+  "updated_at": "2026-06-18T17:05:36.597Z",
   "updated_by": "p-caceres-c",
   "parent": "2394a9b6-a9fd-4ee5-99d7-269702639b76"
 }
