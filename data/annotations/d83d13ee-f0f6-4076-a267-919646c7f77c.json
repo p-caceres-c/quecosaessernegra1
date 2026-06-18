@@ -532,7 +532,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Racism is an illness of the soul... an illness of the spirit. Racism is the most brutal expression of underdevelopment. It is torture that endures the whole life. It excludes, and it is the permanent cause of resentment, of non-integration of the group of all those who could contribute towards a better Peru.\" The testimony by a Black man highlights the implications of racism. "
+              "text": "\"Racism is an illness of the soul... an illness of the spirit. Racism is the most brutal expression of underdevelopment. It is torture that endures the whole life. It excludes, and it is the permanent cause of resentment, of non-integration of the group of all those who could contribute towards a better Peru.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The testimony by a Black man highlights the implications of racism. "
             }
           ]
         }
