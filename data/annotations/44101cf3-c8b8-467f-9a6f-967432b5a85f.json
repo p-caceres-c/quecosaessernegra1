@@ -212,7 +212,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"Another element that has consistently shaped everything is the fact that this racism is imprinted, indeed, deeply embedded, in the very attitudes of the people themselves. It is the people who claim that the central problem facing Lima, or the country, is the presence of the Indians.\" This testimony reflects on the racial politics in Peru, where indigenous and Black communities are seen as the worst in the racial social hierarchy. "
+              "text": "\"Another element that has consistently shaped everything is the fact that this racism is imprinted, indeed, deeply embedded, in the very attitudes of the people themselves. It is the people who claim that the central problem facing Lima, or the country, is the presence of the Indians.\" ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This testimony reflects on the racial politics in Peru, where indigenous and Black communities are seen as the worst in the racial social hierarchy. "
             }
           ]
         }
