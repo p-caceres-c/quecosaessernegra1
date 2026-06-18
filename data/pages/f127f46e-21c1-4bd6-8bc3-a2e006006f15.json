@@ -12,11 +12,33 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Susana Matute Charun",
+          "text": "",
           "underline": true
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nSusana Matute Charún is an Afro-Peruvian activist, educator, and politician. Her work has focused on the visibility and the advocacy of public politices for Afro-Peruvian communities. She has extensive experience in the public sector, working across various government agencies, focusing on intercultural policies that address inequalities affecting Black communities in Peru. She served for more than 8 years as the Director of Public Policies for Afro-Peruvian People in the Bureau of Culture. In 2026, she ran for Vice President of the political party El Buen Gobierno and was also elected to the Peruvian Congress. "
+          "underline": true,
+          "text": "Susana Matute Charun"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nSusana Matute Charún is an Afro-Peruvian activist, educator, and politician. Her work has focused on the visibility and the advocacy of public policies for Afro-Peruvian communities. She has extensive experience in the public sector, working across various government agencies, focusing on intercultural policies that address inequalities affecting Black communities in Peru. She served for more than 8 years as the Director of Public Policies for Afro-Peruvian People in the Bureau of Culture. In 2026, she ran for Vice President of the political party El Buen Gobierno and was also elected to the Peruvian Congress. "
         }
       ]
     },
@@ -47,8 +69,18 @@
     },
     {
       "uuid": "4a202e2e-442e-475b-aebb-48852ee13637",
-      "includes": [],
+      "includes": [
+        "media"
+      ],
       "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -69,6 +101,24 @@
         {
           "text": "Monica Carrillo",
           "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "underline": true,
+          "text": ""
         }
       ]
     },
@@ -107,7 +157,9 @@
     },
     {
       "uuid": "fb0d30e4-b519-417c-845f-35695545353f",
-      "includes": [],
+      "includes": [
+        "media"
+      ],
       "type": "event",
       "children": [
         {
@@ -119,7 +171,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -129,6 +189,24 @@
         {
           "text": "Esther \"Mamaine\" Cartagena",
           "underline": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "underline": true,
+          "text": ""
         }
       ]
     },
@@ -159,7 +237,9 @@
     },
     {
       "uuid": "16b44f77-d029-4a8c-bd6b-dcedd6bafc56",
-      "includes": [],
+      "includes": [
+        "media"
+      ],
       "type": "event",
       "children": [
         {
@@ -189,7 +269,20 @@
         {
           "text": "Eva Ayllon",
           "underline": true
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
           "text": "\nEva Ayllón is one of the most iconic Afro-Peruvian singers, internationally recognized for her powerful voice and her contributions to the global visibility of Afro-Peruvian music. She has played a central role in popularizing genres such as landó, festejo, and other coastal rhythms, bringing Afro-Peruvian traditions to major international stages. \n\n"
         }
@@ -215,10 +308,7 @@
     {
       "uuid": "3d75dcf2-20e1-4f3a-952c-73e616e9c33e",
       "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
+        "media"
       ],
       "type": "event",
       "children": [
@@ -252,7 +342,7 @@
   "slug": "notable-afro-peruvians",
   "created_at": "2026-06-15T20:38:27.866Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-15T20:40:42.239Z",
+  "updated_at": "2026-06-18T17:08:35.136Z",
   "updated_by": "p-caceres-c",
   "parent": "2394a9b6-a9fd-4ee5-99d7-269702639b76"
 }
