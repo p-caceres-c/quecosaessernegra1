@@ -474,7 +474,24 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "\"The Government has to recognize and promote through affirmative actions that there are more opportunities for Afro-Peruvians. And that is the way that the government can pay, not necessarily money. We are not asking about money. We are not even asking, we demand not a favor, we demand our rights.\"  This testimony by Monica Carrillo reveals a political fight for recognition and reparations. "
+              "text": "\"The Government has to recognize and promote through affirmative actions that there are more opportunities for Afro-Peruvians. And that is the way that the government can pay, not necessarily money. We are not asking about money. We are not even asking, we demand not a favor, we demand our rights.\"  ",
+              "italic": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This testimony by Monica Carrillo reveals a political fight for recognition and reparations. "
             }
           ]
         }
