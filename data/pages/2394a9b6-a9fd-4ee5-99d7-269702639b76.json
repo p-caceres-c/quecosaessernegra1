@@ -5,10 +5,15 @@
       "children": [
         {
           "text": "\n"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "Knowledge Production",
-          "bold": true
+          "bold": true,
+          "text": "Knowledge Production"
         }
       ]
     },
@@ -37,15 +42,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "underline": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "underline": true,
           "text": ""
         }
@@ -64,7 +60,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This tag highlights moments where Afro-Peruvian women refer to genealogies, past family histories,  connecting their personal stories to an intergenerational memory\n\n"
+          "text": "This tag highlights moments where Afro-Peruvian women refer to genealogies, past family histories,  connecting their personal stories to an intergenerational memory"
         }
       ]
     },
@@ -72,10 +68,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
-        },
-        {
-          "text": "Material conditions ",
+          "text": "",
           "bold": true
         }
       ]
@@ -84,7 +77,34 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Material conditions "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -102,15 +122,6 @@
       "children": [
         {
           "text": "It refers to the discussions of jobs, types of employment, economic survival, and income-generating activities."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "underline": true
         }
       ]
     },
@@ -136,19 +147,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "It refers to schooling, access to education, expectations, and barriers to social and economic mobility.\n\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
-        },
-        {
-          "text": "History ",
-          "bold": true
+          "text": "It refers to schooling, access to education, expectations, and barriers to social and economic mobility."
         }
       ]
     },
@@ -157,7 +156,34 @@
       "children": [
         {
           "text": "",
-          "underline": true
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "History "
         }
       ]
     },
@@ -184,15 +210,6 @@
       "children": [
         {
           "text": "It centers on histories that refer to the period from the Spanish conquest in 1532 through the abolition of slavery in 1854. During this time, enslaved Africans and their descendants were forced to work in mines, cities, and agricultural estates, forming the early foundations of Afro-Peruvian communities under rigid racial hierarchies. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "underline": true
         }
       ]
     },
@@ -233,8 +250,58 @@
       "type": "paragraph",
       "children": [
         {
+          "underline": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "underline": true,
+          "text": "Post - Agrarian reformation "
+        },
+        {
+          "text": "\nReferences the changes aftert the the agrarian reform in 1969, a government-led process that sought to dismantle haciendas and redistribute land to workers and rural communities. This reform aimed to reduce inequality and transform rural labor relations, significantly affecting Afro-Peruvian populations who had long worked on these estates. This period also includes broader political changes, such as expanded citizenship rights formalized in the 1979 Constitution. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "",
-          "underline": true
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/agrarian-reformation/"
+        },
+        {
+          "type": "link",
+          "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/agrarian-reformation/",
+          "children": [
+            {
+              "text": "More about the agrarian reformation",
+              "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/agrarian-reformation/"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/agrarian-reformation/"
+        },
+        {
+          "type": "link",
+          "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/agrarian-reformation/",
+          "children": [
+            {
+              "text": "",
+              "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/agrarian-reformation/"
+            }
+          ]
+        },
+        {
+          "text": "",
+          "underline": true,
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/agrarian-reformation/"
         }
       ]
     },
@@ -243,6 +310,7 @@
       "children": [
         {
           "underline": true,
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/agrarian-reformation/",
           "text": ""
         }
       ]
@@ -251,8 +319,7 @@
       "type": "paragraph",
       "children": [
         {
-          "underline": true,
-          "text": ""
+          "text": "The tags discuss the outcomes and limitations of the agrarian reformation, including the creation of cooperatives (collective farming organizations), new forms of community leadership, and the persistence of economic inequality despite structural changes."
         }
       ]
     },
@@ -260,111 +327,7 @@
       "type": "paragraph",
       "children": [
         {
-          "underline": true,
-          "text": "Agrarian reformation "
-        },
-        {
-          "text": "\nReferences to the agrarian reform initiated in 1969, a government-led process that sought to dismantle haciendas and redistribute land to workers and rural communities. This reform aimed to reduce inequality and transform rural labor relations, significantly affecting Afro-Peruvian populations who had long worked on these estates. This period also includes broader political changes, such as expanded citizenship rights formalized in the 1979 Constitution. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        },
-        {
-          "type": "link",
-          "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/agrarian-reformation/",
-          "children": [
-            {
-              "text": "More about the agrarian reformation"
-            }
-          ]
-        },
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        },
-        {
-          "type": "link",
-          "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/agrarian-reformation/",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        },
-        {
-          "type": "link",
-          "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/agrarian-reformation/",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        },
-        {
-          "type": "link",
-          "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/agrarian-reformation/",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": "Post-Agrarian reformation",
-          "underline": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Discussions of the outcomes and limitations of the agrarian reformation, including the creation of cooperatives (collective farming organizations), new forms of community leadership, and the persistence of economic inequality despite structural changes.\n\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
-        },
-        {
-          "text": "Afro-Peruvian culture ",
+          "text": "",
           "bold": true
         }
       ]
@@ -373,8 +336,26 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "underline": true
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Afro-Peruvian culture "
         }
       ]
     },
@@ -408,39 +389,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/afro-peruvian-music-and-sound/"
         },
         {
           "type": "link",
           "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/afro-peruvian-music-and-sound/",
           "children": [
             {
-              "text": "More about Afro-Peruvian music"
+              "text": "More about Afro-Peruvian music",
+              "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/afro-peruvian-music-and-sound/"
             }
           ]
         },
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        },
-        {
-          "type": "link",
-          "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/afro-peruvian-music-and-sound/",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": ""
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/afro-peruvian-music-and-sound/"
         }
       ]
     },
@@ -497,15 +461,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "underline": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "underline": true,
           "text": ""
         }
@@ -532,39 +487,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/afro-peruvian-visual-representations/"
         },
         {
           "type": "link",
           "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/afro-peruvian-visual-art-and-representations/",
           "children": [
             {
-              "text": "More about Afro-Peruvian visual art"
+              "text": "More about Afro-Peruvian visual representations",
+              "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/afro-peruvian-visual-representations/"
             }
           ]
         },
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        },
-        {
-          "type": "link",
-          "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/afro-peruvian-visual-art-and-representations/",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": ""
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/afro-peruvian-visual-representations/"
         }
       ]
     },
@@ -621,7 +559,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": "",
+          "bold": true
         }
       ]
     },
@@ -629,6 +568,7 @@
       "type": "paragraph",
       "children": [
         {
+          "bold": true,
           "text": ""
         }
       ]
@@ -637,8 +577,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Identity-building ",
-          "bold": true
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Identity-building "
         }
       ]
     },
@@ -672,15 +621,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "underline": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "underline": true,
           "text": ""
         }
@@ -707,15 +647,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "underline": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "underline": true,
           "text": ""
         }
@@ -734,7 +665,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "References to experiences of communal interactions and communal practices between Afro-Peruvians. \n\n"
+          "text": "References to experiences of communal interactions and communal practices between Afro-Peruvians. \n"
         }
       ]
     },
@@ -752,15 +683,6 @@
         {
           "text": "Notable Afro-Peruvians ",
           "bold": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "underline": true
         }
       ]
     },
@@ -794,16 +716,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "More about Nicomedes  "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "underline": true,
-          "text": ""
+          "text": "More about Nicomedes  ",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/nicomedes-santa-cruz/"
         }
       ]
     },
@@ -837,39 +751,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/victoria-santa-cruz/"
         },
         {
           "type": "link",
           "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/victoria-santa-cruz/",
           "children": [
             {
-              "text": "More about Victoria Santa Cruz "
+              "text": "More about Victoria Santa Cruz ",
+              "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/victoria-santa-cruz/"
             }
           ]
         },
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        },
-        {
-          "type": "link",
-          "url": "https://p-caceres-c.github.io/quecosaessernegra/pages/victoria-santa-cruz/",
-          "children": [
-            {
-              "text": ""
-            }
-          ]
-        },
-        {
-          "text": ""
+          "text": "",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/victoria-santa-cruz/"
         }
       ]
     },
@@ -926,16 +823,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "More about Luciano "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "underline": true
+          "text": "More about Luciano ",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/jose-pepe-luciano/"
         }
       ]
     },
@@ -957,15 +846,6 @@
         },
         {
           "text": "\nAfro-Peruvian cultural activist, policy advocate, and politician.  "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "underline": true
         }
       ]
     },
@@ -999,15 +879,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "underline": true
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "underline": true,
           "text": ""
         }
@@ -1027,15 +898,6 @@
       "children": [
         {
           "text": "Afro-Peruvian journalist, poet, singer, and activist. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "underline": true
         }
       ]
     },
@@ -1077,7 +939,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "More about Notable Afro-Peruvians "
+          "text": "More about Notable Afro-Peruvians",
+          "link": "https://p-caceres-c.github.io/quecosaessernegra1/pages/notable-afro-peruvians/"
+        },
+        {
+          "text": " "
         }
       ]
     },
@@ -1106,6 +972,6 @@
   "slug": "guide-to-tags",
   "created_at": "2026-06-15T16:33:42.005Z",
   "created_by": "p-caceres-c",
-  "updated_at": "2026-06-15T16:33:42.005Z",
+  "updated_at": "2026-06-18T16:59:07.365Z",
   "updated_by": "p-caceres-c"
 }
